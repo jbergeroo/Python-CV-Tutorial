@@ -19,4 +19,4 @@ Afin de l'activer, utilisez cela
 source .env/bin/activate (sur MacOS ou Linus)
 ```
 
-Dans chaque notebook du tutoriel, vous aurez sûrement une ou plusieurs librairies à installer. Vous devrez alors activer votre environnnement virtuel et lancer la commande indiquée.
+Dans chaque notebook du tutoriel, vous aurez sûrement une ou plusieurs librairies à installer. Vous devrez alors activer votre environnnement virtuel et lancer la commande indiquée. Lorsque vous utilisez un notebook, n'oubliez pas de sélectionner l'environnement que vous avez créer.
